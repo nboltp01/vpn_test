@@ -1,5 +1,5 @@
 #profile-update-interval: 1
-#profile-title: 👻GhostVPN nbv
+#profile-title: 👻GhostVPN nb
 #support-url: https://t.me/GhostVpn_Support_Bot
 #profile-web-page-url: https://t.me/GhostVpn_net
 #announce: base64:8J+RuyBHaG9zdFZQTiAtINCR0YvRgdGC0YDRi9C5INC4INCd0LDQtNGR0LbQvdGL0Lkg0JLQn9CdCuKciO+4jyDQotC10LvQtdCz0YDQsNC8OiBAR2hvc3RWcG5fbmV0
