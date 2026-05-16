@@ -1,4 +1,4 @@
-#profile-title: WL RUS (selected)1
+#profile-title: WL RUS (selected)
 #profile-update-interval: 24
 #announce: Сервера из подписки должны использоваться ТОЛЬКО при белых списках!
 vless://7e7452f2-1004-45ed-a55a-f9d474e152c7@84.252.149.198:4436?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=max.ru#1.%20%F0%9F%87%B5%F0%9F%87%B1%20VLESS%20%7C%20SNI%3A%20max.ru%20%7C%20TG%3A%20%40wlrustg
